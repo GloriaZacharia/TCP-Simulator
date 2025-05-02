@@ -1,0 +1,1 @@
+Built a Python-based simulation of TCP networking protocols, focusing on data flow, error detection, and correction. This project highlights troubleshooting, system testing, and root cause analysis — all essential for support and performance improvement in tech platforms.
